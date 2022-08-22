@@ -1,0 +1,4 @@
+<h2>AJAX test</h2>
+<p>This is example of ajax</p>
+<p>This is another example of ajax</p>
+<p>this is again</p>
