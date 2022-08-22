@@ -1,6 +1,18 @@
-<h2>AJAX</h2>
-<p>AJAX is not a programming language.</p>
-
-<p>AJAX is a technique for accessing web servers from a web page.</p>
-
-<p>AJAX stands for Asynchronous JavaScript And XML.</p>
+<div id="contact" class="col-lg-4 col-sm-12">
+       <h2 class="text-center"><b>Contact</b></h2>
+       <p class="text-center"><b>Let's get in touch. Send me a message:</b></p>
+       
+         <form action="/action_page.php" target="_blank">       
+            <label for="name"><i class="fa fa-user"></i>Name:</label>
+            <input type="text" id="name" name="name" placeholder="Name" required>
+          <br> 
+          <label for="email"><i class="fa fa-envelope"></i>Email:</label>
+          <input type="email" id="email" name="email" placeholder="Email" required>
+          <br>
+           <label for ="message"><i class="fa fa-paper-plane"></i>Message:</label>
+           <textarea id="message" name="message" placeholder="Message: Write your message here...."></textarea>
+          <br>
+           <input type="submit" value="Submit">
+           <br>
+        </form>         
+</div>
