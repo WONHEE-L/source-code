@@ -1,2 +1,2 @@
 # source-code
-This is for proactice purpose, not for project.
+This is for practice purpose, not for project.
