@@ -2,7 +2,7 @@
        <h2 class="text-center"><b>Contact</b></h2>
        <p class="text-center"><b>Let's get in touch. Send me a message:</b></p>
        
-         <form action="/action_page.php" target="_blank">       
+         <form class="bg-primary" action="/action_page.php" target="_blank">       
             <label for="name"><i class="fa fa-user"></i>Name:</label>
             <input type="text" id="name" name="name" placeholder="Name" required>
           <br> 
