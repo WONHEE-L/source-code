@@ -1,4 +1,9 @@
-<div id="contact" class="col-lg-4 col-sm-12 mt-5 pt-5 text-primary">
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+<div id="contact" class="pt-5 text-primary">
        <h2 class="text-center"><b>Contact</b></h2>
        <p class="text-center"><b>Let's get in touch. Send me a message:</b></p>
        
@@ -20,3 +25,5 @@
           </div>
         </form>         
 </div>
+</body>
+</html>
