@@ -1,18 +1,22 @@
-<div id="contact" class="col-lg-4 col-sm-12">
+<div id="contact" class="col-lg-4 col-sm-12 mt-5 pt-5 text-primary">
        <h2 class="text-center"><b>Contact</b></h2>
        <p class="text-center"><b>Let's get in touch. Send me a message:</b></p>
        
-         <form class="bg-primary" action="/action_page.php" target="_blank">       
-            <label for="name"><i class="fa fa-user"></i>Name:</label>
+         <form class="bg-primary p-5" action="/action_page.php" target="_blank">
+          <div class="pb-3">
+            <label for="name">Name:</label>
             <input type="text" id="name" name="name" placeholder="Name" required>
-          <br> 
-          <label for="email"><i class="fa fa-envelope"></i>Email:</label>
+          </div>
+          <div class"pb-3"> 
+          <label for="email">Email:</label>
           <input type="email" id="email" name="email" placeholder="Email" required>
-          <br>
-           <label for ="message"><i class="fa fa-paper-plane"></i>Message:</label>
+          </div>
+          <div class="pb-3">
+           <label for ="message">Message:</label><br>
            <textarea id="message" name="message" placeholder="Message: Write your message here...."></textarea>
-          <br>
+          </div>
+          <div class="pb-3">
            <input type="submit" value="Submit">
-           <br>
+          </div>
         </form>         
 </div>
