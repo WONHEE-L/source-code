@@ -1,23 +1,2 @@
 
-<div id="contact" class="pt-5 text-primary">
-       <h2 class="text-center"><b>Contact</b></h2>
-       <p class="text-center"><b>Let's get in touch. Send me a message:</b></p>
-       
-         <form class="bg-primary p-5" action="/action_page.php">
-         
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" placeholder="Name" required>
-         
-         
-          <label for="email">Email:</label>
-          <input type="email" id="email" name="email" placeholder="Email" required>
-         
-          
-           <label for ="message">Message:</label><br>
-           <textarea id="message" name="message" placeholder="Message: Write your message here...."></textarea>
-          
-           <input type="submit" value="Submit">
-          
-        </form>         
-</div>
 
